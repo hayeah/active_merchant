@@ -86,6 +86,11 @@ net_registry:
   login: X
   password: Y
   
+orbital_gateway:
+  login: LOGIN
+  password: PASSWORD
+  merchant_id: MERCHANTID
+  
 payflow:
   login: LOGIN
   password: PASSWORD
